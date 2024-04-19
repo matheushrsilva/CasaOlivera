@@ -59,7 +59,7 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados
 
 #### Tabela Casa Oliveira
 
-!["esquema Casa Olivera"](CAsaOLiveira.png)
+!["esquema Casa Olivera"](CAsaOliveira.png)
 
 #### Modelo Físico: Codigo que gera o banco de dados
 ```sql
